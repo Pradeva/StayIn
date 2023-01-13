@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "476343538347",
+    "project_id": "logregfirebase-b26c7",
+    "storage_bucket": "logregfirebase-b26c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476343538347:android:3bc8d4f518d6c066875dee",
+        "android_client_info": {
+          "package_name": "com.example.logregfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476343538347-sjugurn6jkn4o2u97bamjva8ahat39va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBpZXyOvne0YFMbajDKNyR8dJrORFHWyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476343538347-sjugurn6jkn4o2u97bamjva8ahat39va.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
